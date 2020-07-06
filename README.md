@@ -1,3 +1,3 @@
-# My solutions to Hyperskill Projects
+# My solutions to Hyperskills Projects
 
 **Todo List** - Difficulty Hard
